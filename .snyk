@@ -8,3 +8,10 @@ patch:
         patched: '2017-07-19T09:15:14.702Z'
     - socket.io > socket.io-adapter > socket.io-parser > debug > ms:
         patched: '2017-07-19T09:15:14.702Z'
+  'npm:debug:20170905':
+    - compression > debug:
+        patched: '2017-09-27T04:56:21.657Z'
+    - method-override > debug:
+        patched: '2017-09-27T04:56:21.657Z'
+    - mongoose > mquery > debug:
+        patched: '2017-09-27T04:56:21.657Z'
